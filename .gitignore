@@ -1,0 +1,4 @@
+./emacs.d/session*
+./emacs.d/backup/*
+./emacs.d/server
+./emacs.d/elpa/*
