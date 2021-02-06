@@ -87,6 +87,9 @@ alias emacsc='/usr/bin/emacsclient -a "" -c'
 #PERL_MB_OPT="--install_base \"/home/honoka/perl5\""; export PERL_MB_OPT;
 #PERL_MM_OPT="INSTALL_BASE=/home/honoka/perl5"; export PERL_MM_OPT;
 
+#Ruby libs
+export RUBYLIB=/home/karen/Tools/SimuTools/libs
+
 if [ "$LANGUAGE" = "ja_JP:en" ]; then
     export UNZIP="-O cp932"
     export ZIPINFO="-O cp932"
